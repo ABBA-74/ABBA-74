@@ -14,7 +14,7 @@ I 'm Abdel. A product-focused fullstack developer base in Saint Julien-En-Genevo
 <img align="left" alt="vscode icon" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original.svg" style="padding-right:15px;" />
 <img align="left" alt="vscode icon" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:15px;" />
 <img align="left" alt="vscode icon" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" style="padding-right:15px;" />
-<img align="left" alt="vscode icon" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" style="padding-right:15px;" />
+<img align="left" alt="vscode icon" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" style="padding-right:15px;" class="devicon-github-original" />
 <!--
 **ABBA-74/ABBA-74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
