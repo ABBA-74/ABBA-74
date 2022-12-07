@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-I 'm Abdel. A product-focused fullstack developer base in Saint Julien-En-Genevois (France)
-I am currently learning web development through STUDI courses in order to obtain the diploma of graduate web and mobile web developer
+I 'm Abdel. A product-focused fullstack developer base in Saint Julien-En-Genevois (France).
+
+I am currently learning web development through STUDI courses in order to obtain the diploma of graduate web and mobile web developer.
 
 ### Languages and Tools
 <img align="left" alt="vscode icon" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:15px;" />
