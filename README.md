@@ -2,7 +2,7 @@
 
 
 ### Languages and Tools
-[<img align="left" alt="" width="35px" src=""https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css" style="padding-right:15px;" />][VSCode]
+[<img align="left" alt="vscode icon" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:15px;" />][VSCode]
 <!--
 **ABBA-74/ABBA-74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
