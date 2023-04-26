@@ -6,11 +6,8 @@ I am currently learning web development through STUDI courses in order to obtain
 
 
 
-<a target="_blank" href="https://github.com/ABBA-74">
-  <img alt="Sergey's GitHub Stats" align="center" src="https://github-readme-stats.vercel.app/api/?username=ABBA-74&count_private=true&show_icons=true&theme=prussian&custom_title=GitHub%20Profile%20Summary&include_all_commits=true&hide_border=true&hide_rank=true" />
-</a>
-
 ![GHstats](https://github-readme-stats.vercel.app/api?username=ABBA-74&how_icons=true)
+
 
 
 
