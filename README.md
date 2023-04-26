@@ -2,7 +2,10 @@
 
 I 'm Abdel. A product-focused fullstack developer base in Saint Julien-En-Genevois (France).
 
-I am currently learning web development through STUDI courses in order to obtain the diploma of graduate web and mobile web developer.
+I graduated as a Graduate Fullstack Developer in April 2023, after completing a two-year training course with the training organization Studi. Currently, I am in the process of completing a Bachelor's degree in Python application development.
+
+If you are looking for a passionate and motivated developer, please feel free to contact me to discuss your needs and my skills. I am ready to take on new challenges and bring my skills to a dynamic company.
+
 
 
 
