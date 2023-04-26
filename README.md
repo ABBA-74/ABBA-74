@@ -30,3 +30,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+![GHstats](https://github-readme-stats.vercel.app/api?username=ABBA-74&how_icons=true)
