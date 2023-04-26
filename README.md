@@ -4,6 +4,16 @@ I 'm Abdel. A product-focused fullstack developer base in Saint Julien-En-Genevo
 
 I am currently learning web development through STUDI courses in order to obtain the diploma of graduate web and mobile web developer.
 
+
+
+<a target="_blank" href="https://github.com/ABBA-74">
+  <img alt="Sergey's GitHub Stats" align="center" src="https://github-readme-stats.vercel.app/api/?username=ABBA-74&count_private=true&show_icons=true&theme=prussian&custom_title=GitHub%20Profile%20Summary&include_all_commits=true&hide_border=true&hide_rank=true" />
+</a>
+
+![GHstats](https://github-readme-stats.vercel.app/api?username=ABBA-74&how_icons=true)
+
+
+
 ### Languages and Tools
 <img align="left" alt="vscode icon" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:15px;" />
 <img align="left" alt="vscode icon" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:15px;" />
@@ -31,8 +41,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a target="_blank" href="https://github.com/ABBA-74">
-  <img alt="Sergey's GitHub Stats" align="center" src="https://github-readme-stats.vercel.app/api/?username=ABBA-74&count_private=true&show_icons=true&theme=prussian&custom_title=GitHub%20Profile%20Summary&include_all_commits=true&hide_border=true&hide_rank=true" />
-</a>
 
-![GHstats](https://github-readme-stats.vercel.app/api?username=ABBA-74&how_icons=true)
