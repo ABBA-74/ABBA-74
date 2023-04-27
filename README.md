@@ -11,7 +11,7 @@ If you are looking for a passionate and motivated developer, please feel free to
 
 ![GHstats](https://github-readme-stats.vercel.app/api?username=ABBA-74&how_icons=true)
 
-![GHstats](https://github-readme-stats.vercel.app/api?username=ABBA-74&show_icons=true&bg_color=505864&title_color=ffffff&hide_border=true)
+![GHstats](https://github-readme-stats.vercel.app/api?username=ABBA-74&show_icons=true&bg_color=505864&title_color=ffffff&hide_border=false&border_color=000000)
 
 <style>
   .ghstats-image {
