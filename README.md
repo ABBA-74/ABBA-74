@@ -2,9 +2,9 @@
 
 I 'm Abdel. A product-focused fullstack developer base in Saint Julien-En-Genevois (France).
 
-I graduated as a Graduate Fullstack Developer in April 2023, after completing a two-year training course with the training organization Studi. Currently, I am in the process of completing a Bachelor's degree in Python application development.
+I recently graduated with a Bachelor's degree in Python application development in April 2024, following a successful completion of a two-year Graduate Fullstack Developer training at Studi. With a total of three years of intensive training in software development, I have honed my skills in both Python and full-stack technologies.
 
-If you are looking for a passionate and motivated developer, please feel free to contact me to discuss your needs and my skills. I am ready to take on new challenges and bring my skills to a dynamic company.
+I am actively seeking opportunities to bring my passion for technology and my development expertise to a dynamic company. If you are looking for a dedicated and motivated developer eager to contribute and tackle new challenges, please feel free to contact me to discuss how my skills align with the needs of your team.
 
 
 
