@@ -1,10 +1,28 @@
-### Hi there 👋
+# Hello 👋  
+My name is Abdel, a product-focused fullstack developer based in Saint-Julien-en-Genevois (France).  
 
-I 'm Abdel. A product-focused fullstack developer base in Saint Julien-En-Genevois (France).
+## 🌟 Who am I?  
+- Passionate about technology, I turn innovative ideas into tangible solutions.  
+- Holder of a **Bachelor's degree in Python Application Development** (December 2023).  
+- Completed a **2-year Graduate Fullstack Developer program** at Studi, with 3 years of intensive training in software development.  
 
-I recently graduated with a Bachelor's degree in Python application development in April 2024, following a successful completion of a two-year Graduate Fullstack Developer training at Studi. With a total of three years of intensive training in software development, I have honed my skills in both Python and full-stack technologies.
+## 💻 My Expertise  
+- **Backend:** Symfony (my framework of choice).  
+- **Frontend:** React and Angular for modern, interactive interfaces.  
+- Fullstack skills combined to create efficient and scalable solutions.  
 
-I am actively seeking opportunities to bring my passion for technology and my development expertise to a dynamic company. If you are looking for a dedicated and motivated developer eager to contribute and tackle new challenges, please feel free to contact me to discuss how my skills align with the needs of your team.
+## 🚀 My Methodology  
+I rely on the **Agile methodology** to:  
+- Ensure **close collaboration** with my clients.  
+- Deliver **rapid, iterative releases** tailored to their needs.  
+- Guarantee **flexibility** throughout the project lifecycle.  
+
+## 💼 What I Offer  
+- Development of **custom applications**.  
+- Optimization of **digital processes** for your projects.  
+
+## 📩 Interested?  
+Feel free to contact me to discuss your ideas and see how I can turn your needs into reality.  
 
 
 
